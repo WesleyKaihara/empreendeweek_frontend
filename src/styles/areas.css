@@ -1,0 +1,12 @@
+.area-titulo {
+  font-size: 1.5em;  
+}
+
+.area-subtitulo {
+  margin: .5em 0 ;
+  line-height: 1.4em;
+}
+
+.area-content {
+  margin: 4% 0;
+}
